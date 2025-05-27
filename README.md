@@ -34,7 +34,7 @@ A complete clone of the [Triol.pet](https://triol.pet/) pet store website built 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Lav1eoubourse/triol-pet-store.git
 cd triol-pet-store
 ```
 
